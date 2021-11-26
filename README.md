@@ -48,6 +48,7 @@ o    Write in the read me file some explanation about the code
 
 
 Brief explanation:
+
 this code uses own HttpClient class for networking to send http requests. Video and image downloading are also described in it. 
 AdvertisementVideoDisplayer class delegates download logic to HttpClient and handles ad video displaying over the 3d plane.
 ItemPurchaser class is responsible for gathering order item information through HttpClient class and displaying it's information. 
